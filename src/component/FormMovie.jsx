@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class FormEmployee extends Component {
+class FormMovie extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -93,4 +93,4 @@ class FormEmployee extends Component {
   }
 }
 
-export default FormEmployee;
+export default FormMovie;
